@@ -40,6 +40,10 @@ tasksemantic reproduce
 
 The package verifies finite instances of the paper's exact identities and reports measured runtimes/state counts. The exponential DNNF lower bound and NP-completeness boundary are literature theorems; this software does **not** fabricate empirical DNNF lower bounds or claim to solve P vs NP.
 
+## Citation
+Akhtar, M. A. K. (2026). Beyond Complete Compilation: Task-Semantic Images and the Complexity of Computing Only What a Query Can See (Version V1). Zenodo. https://doi.org/10.5281/zenodo.22160359
+
+
 ## License
 
 Apache-2.0. Copyright 2026 Mohammad Amir Khusru Akhtar.
