@@ -1,9 +1,32 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the accompanying manuscript."
+
+message: "If you use this software, please cite the accompanying manuscript: Akhtar, M. A. K. (2026). Beyond Complete Compilation: Task-Semantic Images and the Complexity of Computing Only What a Query Can See (Version V1). Zenodo. https://doi.org/10.5281/zenodo.22160359"
+
 title: "Task-Semantic Images Reproducibility Package"
+
 version: 2.0.0
+
 date-released: 2026-08-29
+
 authors:
-  - family-names: Akhtar
-    given-names: Mohammad Amir Khusru
+  - family-names: "Akhtar"
+    given-names: "Mohammad Amir Khusru"
+
 license: Apache-2.0
+
+repository-code: "https://github.com/Arithmetic-Power-Geometry/task-semantic-images"
+
+references:
+  - type: article
+    title: "Beyond Complete Compilation: Task-Semantic Images and the Complexity of Computing Only What a Query Can See"
+    authors:
+      - family-names: "Akhtar"
+        given-names: "Mohammad Amir Khusru"
+    year: 2026
+    version: "V1"
+    publisher:
+      name: "Zenodo"
+    identifiers:
+      - type: doi
+        value: "10.5281/zenodo.22160359"
+    url: "https://doi.org/10.5281/zenodo.22160359"
