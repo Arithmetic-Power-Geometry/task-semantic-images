@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "Task-Semantic Images Reproducibility Package"
+version: 2.0.0
+date-released: 2026-08-29
+authors:
+  - family-names: Akhtar
+    given-names: Mohammad Amir Khusru
+license: Apache-2.0

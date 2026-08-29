@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tasksemantic"
+version = "2.0.0"
+description = "Exact task-semantic image experiments for Boolean reasoning"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+authors = [{name="Mohammad Amir Khusru Akhtar"}]
+dependencies = ["networkx>=3.2", "numpy>=1.26", "pandas>=2.0", "matplotlib>=3.8", "gradio>=5.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+tasksemantic = "tasksemantic.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

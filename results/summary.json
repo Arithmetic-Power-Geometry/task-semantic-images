@@ -1,0 +1,14 @@
+{
+  "cardinality_rows": 11,
+  "random_rows": 45,
+  "exact_check_rows": 8,
+  "affine_rows": 7,
+  "composition_rows": 20,
+  "barrier_rows": 18,
+  "bdd_rows": 16,
+  "cardinality_all_verified": true,
+  "affine_all_verified": true,
+  "composition_all_verified": true,
+  "max_random_n": 400,
+  "max_bdd_n": 20
+}
